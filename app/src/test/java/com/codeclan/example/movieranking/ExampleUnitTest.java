@@ -1,4 +1,4 @@
-package com.codeclan.example.moiverankings;
+package com.codeclan.example.movieranking;
 
 import org.junit.Test;
 

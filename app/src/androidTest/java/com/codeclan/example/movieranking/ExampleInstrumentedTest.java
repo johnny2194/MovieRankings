@@ -1,4 +1,4 @@
-package com.codeclan.example.moiverankings;
+package com.codeclan.example.movieranking;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.codeclan.example.moiverankings", appContext.getPackageName());
+        assertEquals("com.codeclan.example.movieranking", appContext.getPackageName());
     }
 }

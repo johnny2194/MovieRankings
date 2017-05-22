@@ -1,4 +1,4 @@
-package com.codeclan.example.moiverankings;
+package com.codeclan.example.movieranking;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
